@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">using_MVVM</string>
+    <string name="dice_content">dice</string>
+</resources>
